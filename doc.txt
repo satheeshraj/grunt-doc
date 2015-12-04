@@ -1,0 +1,10 @@
+-->  install npm install -g grunt-cli with in project directory.
+-->  create package.js
+-->  create Gruntfile.js
+--> install sudo npm install grunt-ngmin --save-dev 
+--> install sudo npm install -g grunt-cli
+--> install sudo npm install grunt-ngmin --save-dev
+--> install sudo npm install grunt-contrib-uglify --save-dev
+--> install sudo npm install grunt-contrib-clean --save-dev
+--> install sudo npm install grunt-contrib-cssmin --save-dev
+--> now run in terminal grunt with in the project directory.
